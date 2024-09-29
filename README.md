@@ -25,13 +25,12 @@ The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution d
 
 ## Installation
 ### Prerequisites
-- Python 3.7+
 - Required libraries (listed in `requirements.txt`)
 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/soldier-health-monitoring.git
+   git clone https://github.com/Ruthikajayaprakash/soldier-health-monitoring.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -41,10 +40,7 @@ The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution d
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
+
 
 ## Usage
 1. Input the soldier's health data and location information.
@@ -68,9 +64,8 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Submit a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 ---
 
-This README provides a clear structure for your project, detailing the team members, project overview, features, installation instructions, usage, contribution guidelines, and licensing. Feel free to modify any sections as needed!
+
