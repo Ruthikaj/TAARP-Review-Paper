@@ -1,17 +1,7 @@
 # TAARP-Review-Paper
 The Soldier Health Monitoring &amp; Tracking System utilizes LoRa technology for real-time health and location tracking of soldiers, enhancing safety and efficiency through immediate medical responses.
 
-
----
-
 # Soldier Health Monitoring & Tracking System
-
-## Team Members
-- **Abinesh Kumar KV** - 21MIS0015
-- **Yohan Krishna B K** - 21MIS0287
-- **Lohith Kumar M** - 21MIS0310
-- **Ruthika J** - 21MIS0359
-- **Kelvin Samuel S** - 21MIS0361
 
 ## Project Overview
 The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution designed to ensure the safety and well-being of soldiers during military operations. By leveraging LoRa technology for low-power, long-range communication, this system enables real-time health monitoring and precise location tracking of soldiers in challenging environments.
