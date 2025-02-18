@@ -13,6 +13,8 @@ The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution d
 - **Data Analytics:** Anomaly detection for proactive medical interventions.
 - **User-Friendly Dashboard:** Centralized interface for monitoring and decision-making.
 
+Languages & Tools Used: Laser Source, Servo Motors, Arduino UNO
+
 ## Installation
 ### Prerequisites
 - Required libraries (listed in `requirements.txt`)
