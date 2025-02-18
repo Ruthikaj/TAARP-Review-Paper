@@ -14,10 +14,28 @@ The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution d
 - **User-Friendly Dashboard:** Centralized interface for monitoring and decision-making.
 
 Languages & Tools Used: Laser Source, Servo Motors, Arduino UNO
+
 Transmitter side
 ![image](https://github.com/user-attachments/assets/88cbd643-c23c-4da0-b5ba-224c03e4e77a)
+
 Receiver side
 ![image](https://github.com/user-attachments/assets/8bca260c-2016-4337-8b47-d47acbd5e51c)
+
+LOW-LEVEL DESIGN 
+
+![image](https://github.com/user-attachments/assets/8b324045-5063-4ff4-9ffd-3987b50d90a4)
+
+HARDWARE:
+
+![TARP - SOLDIER HEALTH MONITORING   TRACKING SYSTEM 2-7 screenshot](https://github.com/user-attachments/assets/5c74024e-24b7-427d-bff7-89a3a08d2a9a)
+![TARP - SOLDIER HEALTH MONITORING   TRACKING SYSTEM 4-44 screenshot](https://github.com/user-attachments/assets/aae2ad3a-dbe1-4adc-9195-65efb9552dc7)
+![TARP - SOLDIER HEALTH MONITORING   TRACKING SYSTEM 2-7 screenshot](https://github.com/user-attachments/assets/8f81b291-4e41-4dd2-bf93-4ddc932b11c9)
+![TARP - SOLDIER HEALTH MONITORING   TRACKING SYSTEM 4-27 screenshot](https://github.com/user-attachments/assets/c67ad9d7-158a-4705-9fc8-33797f335432)
+
+![TARP - SOLDIER HEALTH MONITORING   TRACKING SYSTEM 2-14 screenshot](https://github.com/user-attachments/assets/0494f1d1-3bab-4e22-b5ab-65cd2227ed98)
+
+
+
 
 
 
