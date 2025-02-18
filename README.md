@@ -14,6 +14,13 @@ The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution d
 - **User-Friendly Dashboard:** Centralized interface for monitoring and decision-making.
 
 Languages & Tools Used: Laser Source, Servo Motors, Arduino UNO
+Transmitter side
+![image](https://github.com/user-attachments/assets/88cbd643-c23c-4da0-b5ba-224c03e4e77a)
+Receiver side
+![image](https://github.com/user-attachments/assets/8bca260c-2016-4337-8b47-d47acbd5e51c)
+
+
+
 
 ## Installation
 ### Prerequisites
