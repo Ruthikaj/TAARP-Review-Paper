@@ -13,25 +13,29 @@ The **Soldier Health Monitoring & Tracking System** is a cutting-edge solution d
 - **Data Analytics:** Anomaly detection for proactive medical interventions.
 - **User-Friendly Dashboard:** Centralized interface for monitoring and decision-making.
 
-Components Required
-
-    Arduino UNO (x3)
-
-    Temperature Sensor - LM35 (x2)
-
-    Pulse Sensor - RC-A-4015 (x2)
-
-    GPS Receiver - Neo-6M (x2)
-
-    HC-12 RF module
-
-    SX-1278 RF LoRa module
-
-    9V 3A Battery
-
-    Breadboard and jumper wires
-
 Languages & Tools Used: Laser Source, Servo Motors, Arduino UNO
+
+Working Model:
+
+![image](https://github.com/user-attachments/assets/c864749f-22e4-4e81-a318-a763a199b895)
+
+Block Diagram:
+![image](https://github.com/user-attachments/assets/c3c05452-4152-4a61-b9c1-e11e737c47be)
+
+Circuit Diagram:
+![image](https://github.com/user-attachments/assets/8527ec6f-fdb0-4a44-aa29-b5c5bd72a49e)
+
+APPLICATIONS
+
+
+   
+Defence Forces
+
+The project can be implemented in battle field or high altitude areas where health and location of soldiers is the most basic information which should be known to the control room.
+
+Civilians
+
+This project can also be utilized by individuals who work in remote areas or high altitudes wherein the most basic information should be known to someone dear to them or their guardian’s.
 
 Transmitter side
 ![image](https://github.com/user-attachments/assets/88cbd643-c23c-4da0-b5ba-224c03e4e77a)
